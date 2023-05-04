@@ -1,0 +1,14 @@
+<rebels>
+    <rebel>
+        <f_name>Luke</f_name>
+        <lastname>Skywalker</lastname>
+    </rebel>
+    <rebel>
+        <f_name>Han</f_name>
+        <lastname>Solo</lastname>
+    </rebel>
+    <rebel>
+        <f_name>Admiral</f_name>
+        <lastname>Ackbar</lastname>
+    </rebel>
+</rebels>
